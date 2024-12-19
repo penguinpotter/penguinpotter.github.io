@@ -3,6 +3,7 @@ title: Douglas Potter
 layout: default
 ---
 
+# Welcome To My Endless Projects
 I make stuff.
 
 ---
