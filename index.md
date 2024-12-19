@@ -1,4 +1,7 @@
-# Douglas Potter
+---
+title: Douglas Potter
+layout: default
+---
 
 I make stuff.
 
