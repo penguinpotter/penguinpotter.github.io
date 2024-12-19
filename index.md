@@ -1,6 +1,6 @@
-# Welcome to My Website
+# Douglas Potter
 
-This is the home page.
+I make stuff.
 
 ---
 
